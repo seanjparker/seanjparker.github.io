@@ -42,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.8em;
   font-weight: 500;
 }
@@ -376,8 +376,8 @@ button:focus,
   padding: 40px 15px 5px;
   width: 100%;
   background: -webkit-linear-gradient(top,
-    transparent 0%,
-    rgba(0, 0, 0, 0.5) 100%);
+      transparent 0%,
+      rgba(0, 0, 0, 0.5) 100%);
 }
 
 .portfolio-item .portfolio-info h3 {
@@ -392,8 +392,8 @@ button:focus,
 
 .portfolio-item:hover .portfolio-info {
   background: -webkit-linear-gradient(top,
-    transparent 0%,
-    #000 100%);
+      transparent 0%,
+      #000 100%);
 }
 
 /*-------------------
@@ -403,8 +403,7 @@ button:focus,
 .content-item h3 {
   margin: 0 0 10px;
   line-height: 1;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: bolder;
 }
 
 .content-item h4 {
